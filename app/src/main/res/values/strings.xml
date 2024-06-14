@@ -1,0 +1,32 @@
+
+<resources>
+    <string name="app_name">Donut</string>
+    <string name="order_cupcakes">Order Donuts</string>
+    <string name="one_cupcake">One Donut</string>
+    <string name="six_cupcakes">Six Donuts</string>
+    <string name="twelve_cupcakes">Dozen(12) Donuts</string>
+    <string name="choose_flavor">Choose Flavor</string>
+    <string name="vanilla">Plain Glazed</string>
+    <string name="chocolate">Cream-filled</string>
+    <string name="red_velvet">Sprinkles</string>
+    <string name="salted_caramel">Jelly-filled</string>
+    <string name="coffee">Chocolate Glazed</string>
+    <string name="special_flavor">Special Flavor</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="choose_pickup_date">Choose Pickup Date</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="quantity">Quantity</string>
+    <string name="flavor">Flavor</string>
+    <string name="pickup_date">Pickup date</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">New Donut Order</string>
+    <string name="order_details">Quantity: %1$s \nFlavor: %2$s \nPickup date: %3$s \nTotal: %4$s \n\nThank you!</string>
+    <string name="back_button">Back</string>
+    <plurals name="cupcakes">
+        <item quantity="one">%d donut</item>
+        <item quantity="other">%d donuts</item>
+    </plurals>
+</resources>
